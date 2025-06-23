@@ -10,7 +10,7 @@ Me chamo Gustavo Bueno Rodrigues, tenho 17 anos e sou de São Paulo. Estou final
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/xyz.gusta/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png"/></a>
+  <a href="https://discordapp.com/users/gustavz444" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
