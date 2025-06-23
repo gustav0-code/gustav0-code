@@ -104,7 +104,12 @@ Me chamo Gustavo Bueno Rodrigues, tenho 17 anos e sou de São Paulo. Estou final
 <br/>
 
 ### 📊 Estatísticas
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustav0-code/gustav0-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustav0-code/gustav0-code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustav0-code/gustav0-code/output/github-contribution-grid-snake.svg">
+</picture>
+<br>
 <p>
   <img 
     align="left" 
