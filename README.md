@@ -1,10 +1,6 @@
 E aí! Eu sou o:
 # 👨‍💻 Gustavo Rodrigues
 
-**`Desenvolvedor Técnico´**
-
-Me chamo Gustavo Bueno Rodrigues, tenho 17 anos e sou de São Paulo. Estou finalizando o ensino médio. Completei Desenvolvimento de Sistemas na ETEC. Sou apaixonado por tecnologia, jogos, consoles e computadores. Estou sempre disposto a novos aprendizados!
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavobrc0d3/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
